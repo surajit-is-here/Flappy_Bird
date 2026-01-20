@@ -32,4 +32,3 @@ This project was created to practice core JavaScript concepts such as game loops
 1. Clone the repository:
    ```bash
    git clone https://github.com/surajit-is-here/Flappy_Bird.git
-# Flappy_Bird
